@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'YFSSTestDemo_Example' do
+  pod 'YFSSTestDemo', :path => '../'
+
+  target 'YFSSTestDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
