@@ -1,0 +1,6 @@
+framework module YFSSTestDemo {
+  umbrella header "YFSSTestDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

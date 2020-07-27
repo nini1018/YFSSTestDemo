@@ -1,0 +1,16 @@
+PODS:
+  - YFSSTestDemo (0.1.0)
+
+DEPENDENCIES:
+  - YFSSTestDemo (from `../`)
+
+EXTERNAL SOURCES:
+  YFSSTestDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YFSSTestDemo: efba60ba8bb2b0a03531c96e1185d3e0e79904d3
+
+PODFILE CHECKSUM: 8a91b594f7e12bdb23715163ac7fc834c49d311e
+
+COCOAPODS: 1.9.3
