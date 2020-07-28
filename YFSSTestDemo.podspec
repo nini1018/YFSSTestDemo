@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/nini1018/YFSSTestDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'fang yang' => '15101031036@163.com' }
+  s.author           = { 'nini1018' => '1051228061@qq.com' }
   s.source           = { :git => 'https://github.com/nini1018/YFSSTestDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
