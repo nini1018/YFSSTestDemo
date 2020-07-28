@@ -3,20 +3,20 @@
   "version": "0.1.0",
   "summary": "A short description of YFSSTestDemo.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/fang yang/YFSSTestDemo",
+  "homepage": "https://github.com/nini1018/YFSSTestDemo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "fang yang": "yangfang@xiangshang360.com"
+    "fang yang": "15101031036@163.com"
   },
   "source": {
-    "git": "https://github.com/fang yang/YFSSTestDemo.git",
+    "git": "https://github.com/nini1018/YFSSTestDemo.git",
     "tag": "0.1.0"
   },
   "platforms": {
-    "ios": "8.0"
+    "ios": "9.0"
   },
   "source_files": "YFSSTestDemo/Classes/**/*"
 }
